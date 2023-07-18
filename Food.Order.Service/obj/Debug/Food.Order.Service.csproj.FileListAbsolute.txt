@@ -1,7 +1,0 @@
-D:\test\Food\Food.Order.Service\bin\Debug\Food.Order.Service.dll
-D:\test\Food\Food.Order.Service\bin\Debug\Food.Order.Service.pdb
-D:\test\Food\Food.Order.Service\bin\Debug\Food.Order.Interface.dll
-D:\test\Food\Food.Order.Service\bin\Debug\Food.Order.Interface.pdb
-D:\test\Food\Food.Order.Service\obj\Debug\Food.Order.Service.csprojResolveAssemblyReference.cache
-D:\test\Food\Food.Order.Service\obj\Debug\Food.Order.Service.dll
-D:\test\Food\Food.Order.Service\obj\Debug\Food.Order.Service.pdb

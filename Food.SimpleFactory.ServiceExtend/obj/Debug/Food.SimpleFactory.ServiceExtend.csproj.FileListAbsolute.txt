@@ -1,7 +1,0 @@
-D:\test\Food\Food.SimpleFactory.ServiceExtend\bin\Debug\Food.ServiceExtend.dll
-D:\test\Food\Food.SimpleFactory.ServiceExtend\bin\Debug\Food.ServiceExtend.pdb
-D:\test\Food\Food.SimpleFactory.ServiceExtend\bin\Debug\Food.Interface.dll
-D:\test\Food\Food.SimpleFactory.ServiceExtend\bin\Debug\Food.Interface.pdb
-D:\test\Food\Food.SimpleFactory.ServiceExtend\obj\Debug\Food.SimpleFactory.ServiceExtend.csprojResolveAssemblyReference.cache
-D:\test\Food\Food.SimpleFactory.ServiceExtend\obj\Debug\Food.ServiceExtend.dll
-D:\test\Food\Food.SimpleFactory.ServiceExtend\obj\Debug\Food.ServiceExtend.pdb

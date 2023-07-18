@@ -1,7 +1,0 @@
-D:\test\Food\Food.AbstractFactory.Service\bin\Debug\Food.AbstractFactory.Service.dll
-D:\test\Food\Food.AbstractFactory.Service\bin\Debug\Food.AbstractFactory.Service.pdb
-D:\test\Food\Food.AbstractFactory.Service\bin\Debug\Food.AbstractFactory.Interface.dll
-D:\test\Food\Food.AbstractFactory.Service\bin\Debug\Food.AbstractFactory.Interface.pdb
-D:\test\Food\Food.AbstractFactory.Service\obj\Debug\Food.AbstractFactory.Service.csprojResolveAssemblyReference.cache
-D:\test\Food\Food.AbstractFactory.Service\obj\Debug\Food.AbstractFactory.Service.dll
-D:\test\Food\Food.AbstractFactory.Service\obj\Debug\Food.AbstractFactory.Service.pdb

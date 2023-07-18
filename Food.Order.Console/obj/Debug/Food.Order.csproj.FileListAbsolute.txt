@@ -1,6 +1,0 @@
-D:\test\Food\Food.Order\bin\Debug\Food.Order.exe.config
-D:\test\Food\Food.Order\bin\Debug\Food.Order.exe
-D:\test\Food\Food.Order\bin\Debug\Food.Order.pdb
-D:\test\Food\Food.Order\obj\Debug\Food.Order.csprojResolveAssemblyReference.cache
-D:\test\Food\Food.Order\obj\Debug\Food.Order.exe
-D:\test\Food\Food.Order\obj\Debug\Food.Order.pdb

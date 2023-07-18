@@ -1,4 +1,0 @@
-D:\test\Food\Food.Interface\bin\Debug\Food.Interface.dll
-D:\test\Food\Food.Interface\bin\Debug\Food.Interface.pdb
-D:\test\Food\Food.Interface\obj\Debug\Food.Interface.dll
-D:\test\Food\Food.Interface\obj\Debug\Food.Interface.pdb

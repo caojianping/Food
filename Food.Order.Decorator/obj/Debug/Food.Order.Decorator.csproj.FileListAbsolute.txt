@@ -1,7 +1,0 @@
-D:\test\Food\Food.Order.Decorator\bin\Debug\Food.Order.Decorator.dll
-D:\test\Food\Food.Order.Decorator\bin\Debug\Food.Order.Decorator.pdb
-D:\test\Food\Food.Order.Decorator\bin\Debug\Food.Order.Service.dll
-D:\test\Food\Food.Order.Decorator\bin\Debug\Food.Order.Service.pdb
-D:\test\Food\Food.Order.Decorator\obj\Debug\Food.Order.Decorator.csprojResolveAssemblyReference.cache
-D:\test\Food\Food.Order.Decorator\obj\Debug\Food.Order.Decorator.dll
-D:\test\Food\Food.Order.Decorator\obj\Debug\Food.Order.Decorator.pdb
