@@ -1,0 +1,4 @@
+D:\test\Food\Food.SimpleFactory.Interface\bin\Debug\Food.Interface.dll
+D:\test\Food\Food.SimpleFactory.Interface\bin\Debug\Food.Interface.pdb
+D:\test\Food\Food.SimpleFactory.Interface\obj\Debug\Food.Interface.dll
+D:\test\Food\Food.SimpleFactory.Interface\obj\Debug\Food.Interface.pdb

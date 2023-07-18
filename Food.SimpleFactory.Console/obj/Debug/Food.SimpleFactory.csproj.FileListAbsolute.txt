@@ -1,0 +1,10 @@
+D:\test\Food\Food.SimpleFactory\bin\Debug\Food.SimpleFactory.exe.config
+D:\test\Food\Food.SimpleFactory\bin\Debug\Food.SimpleFactory.exe
+D:\test\Food\Food.SimpleFactory\bin\Debug\Food.SimpleFactory.pdb
+D:\test\Food\Food.SimpleFactory\obj\Debug\Food.SimpleFactory.exe
+D:\test\Food\Food.SimpleFactory\obj\Debug\Food.SimpleFactory.pdb
+D:\test\Food\Food.SimpleFactory\obj\Debug\Food.SimpleFactory.csprojResolveAssemblyReference.cache
+D:\test\Food\Food.SimpleFactory\bin\Debug\Food.Interface.dll
+D:\test\Food\Food.SimpleFactory\bin\Debug\Food.Service.dll
+D:\test\Food\Food.SimpleFactory\bin\Debug\Food.Interface.pdb
+D:\test\Food\Food.SimpleFactory\bin\Debug\Food.Service.pdb
